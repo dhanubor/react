@@ -1,0 +1,32 @@
+.contanier{
+    display: flex;
+    border: 2px solid lightgray ;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+.contanier .imges img{
+    background-color: aqua;
+    max-width: 45%;
+   
+}
+.productName{
+    
+    width: 65%;
+    font-weight: bold;
+
+}
+.productName h4{
+ color: blue;
+}
+.main-button{
+    width: 150px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 5px 10px;
+    background-color: rgb(230, 157, 23);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
